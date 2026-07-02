@@ -1,0 +1,47 @@
+commit ffc3f7661e77f6f66d315a7c827069463a10621c
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Mon Apr 15 20:57:35 2024 -0400
+
+    Add name
+    
+    - Add name
+
+commit 9b4383cc36d4c8f934b9ce1caf39ab4ae8369bec
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Mon Apr 15 20:55:06 2024 -0400
+
+    Finish final implementations
+    
+    - Finish formatting
+
+commit 32008f6504f9a2fdbe362c3cba81efb6e6532b1f
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Mon Apr 15 03:44:03 2024 -0400
+
+    Fix main runtime issue
+    
+    - Update main.ml functions
+    - Finish testing
+
+commit 20c1217c2c74386f540d6afa295870cda1ef751d
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Sat Apr 13 01:29:55 2024 -0400
+
+    Fix main.ml to run properly
+    
+    - Rewrite functions to be more efficient time-wise
+
+commit a6426d48597028180f55c73624176e68f8f6592f
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Fri Apr 12 15:45:08 2024 -0400
+
+    Implement set and main
+    
+    - Finish set implementation
+    - Finish basic main implementation
+
+commit e89f09deaefb89f36cdc6e4cb2d08a3e181932b0
+Author: Juanru Zhang <jz766@cornell.edu>
+Date:   Thu Apr 11 00:35:57 2024 -0400
+
+    Initial commit

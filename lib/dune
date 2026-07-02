@@ -1,0 +1,8 @@
+(library
+ (inline_tests)
+ (name A6)
+ (preprocess
+  (pps ppx_inline_test))
+  (libraries unix)
+  (instrumentation
+  (backend bisect_ppx)))
